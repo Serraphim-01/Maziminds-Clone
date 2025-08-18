@@ -1,0 +1,20 @@
+.our-team-section {
+  text-align: center;
+  padding: 50px;
+}
+
+@media (max-width: 999px) {
+  .team-container.site-card-container {
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  }
+
+  .our-team-section {
+    padding: 10px;
+  }
+}
+
+@media (max-width: 599px) {
+  .team-container.site-card-container {
+    grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+  }
+}

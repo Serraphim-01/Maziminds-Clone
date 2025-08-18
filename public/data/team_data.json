@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "profile": "/assets/Images/members/asif.png",
+        "name": "Asif",
+        "role": "Developer",
+        "links": {
+            "link1": "https://github.com/mazimez",
+            "link2": "https://www.linkedin.com/in/asif-patel-39b95617a/",
+            "link3": "https://www.instagram.com/asif987patel/"
+        },
+        "icons": {
+            "icon1": "Github",
+            "icon2": "Linkedin",
+            "icon3": "Instagram"
+        }
+    },
+    {
+        "id": 2,
+        "profile": "/assets/Images/members/jeremiah.png",
+        "name": "Jeremiah",
+        "role": "Developer",
+        "links": {
+            "link1": "https://example.com/link1",
+            "link2": "https://example.com/link2",
+            "link3": "https://example.com/link3"
+        },
+        "icons": {
+            "icon1": "Github",
+            "icon2": "Mail",
+            "icon3": "X"
+        }
+    },
+    {
+        "id": 4,
+        "profile": "/assets/Images/members/pete.png",
+        "name": "Pete Lewis",
+        "role": "3D Artist",
+        "links": {
+            "link1": "https://example.com/link1",
+            "link2": "https://example.com/link2"
+        },
+        "icons": {
+            "icon1": "Github",
+            "icon2": "X"
+        }
+    },
+    {
+        "id": 3,
+        "profile": "/assets/Images/profile3.jpg",
+        "name": "Antonio",
+        "role": "2D Artist",
+        "links": {
+            "link1": "https://example.com/link1",
+            "link2": "https://example.com/link2"
+        },
+        "icons": {
+            "icon1": "Github",
+            "icon2": "X"
+        }
+    },
+    
+    {
+        "id": 4,
+        "profile": "/assets/Images/profile6.jpg",
+        "name": "Koby",
+        "role": "Music Composer",
+        "links": {
+            "link1": "https://example.com/link1",
+            "link2": "https://example.com/link2"
+        },
+        "icons": {
+            "icon1": "Github",
+            "icon2": "X"
+        }
+    }
+]

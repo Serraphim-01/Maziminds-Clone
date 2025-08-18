@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "icon": "Instagram",
+        "link": "https://www.instagram.com/maziminds/"
+    }, 
+    {
+        "id": 2,
+        "icon": "Itch",
+        "link": "https://maziminds.itch.io/"
+    }, 
+    {
+        "id": 3,
+        "icon": "Youtube",
+        "link": "https://www.youtube.com/@maziminds"
+    }, 
+    {
+        "id": 4,
+        "icon": "Github",
+        "link": "https://github.com/maziminds"
+    }, 
+    {
+        "id": 5,
+        "icon": "X",
+        "link": "https://x.com/maziminds"
+    }
+
+]
